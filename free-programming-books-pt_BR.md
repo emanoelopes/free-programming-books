@@ -109,3 +109,5 @@
 * [Vim Médio](http://aurelio.net/vim/vim-medio.txt)
 * [Vim Avançado](http://aurelio.net/vim/vim-avancado.txt)
 * [Editor VI - Guia de Referência](http://aurelio.net/curso/material/vim-ref.html)
+* [Vim Book](https://code.google.com/p/vimbook/)
+
